@@ -16,7 +16,6 @@ module.exports = {
       },
       colors: {
         black: {
-          // "brand-01":"#111111",
           "brand-01":"#000308",
           "brand-02": "#1C1C1C",
           "brand-03": "#ffffff40",
@@ -26,6 +25,11 @@ module.exports = {
           "brand-07": "rgba(255, 255, 255, 0.12)",
           "brand-08": "#0D1117",
           "brand-smoke": 'rgba(0, 0, 0, 0.78)',
+          "brand-09": "#0b0b0f",
+          "brand-10": "#12100E",
+          "brand-11": "#2B4162",
+
+          
         },
         blue: {
           "brand-01": "#168FFF",
@@ -33,10 +37,13 @@ module.exports = {
         },
         green: {
           "brand-01": "#3fd080",
+          "brand-02": "#20BF55",
+          "brand-03": "#01BAEF",
         },
         gray: {
           "brand-01": "#b3b3b3",
-          "brand-02": "#8B949E"
+          "brand-02": "#8B949E",
+          "brand-03": "#181921",
         }
       },
       keyframes: {
